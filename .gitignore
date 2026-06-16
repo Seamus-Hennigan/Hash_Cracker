@@ -3,6 +3,12 @@
 
 .idea/
 
+CMakeUserPresets.json
+
+.vscode/
+
+
+
 *.exe
 *.obj
 *.o
@@ -10,6 +16,10 @@
 *.lib
 *.dll
 *.out
+*.pdb
+*.ilk
+*.exp
+
 
 Thumbs.db
 .DS_Store
